@@ -1,0 +1,3 @@
+policy_id,start_date,deductible,liability,medical,customer_id 
+542985,10/01/2017,1000,50000,250000,12345
+871034,08/22/2017,800,200000,350000,12346 

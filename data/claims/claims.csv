@@ -1,0 +1,3 @@
+claim_id,claim_date,police_report,status,amount,policy_id,customer_id 
+222222,10/22/2017,54321,paid,2475,542985,12345
+333333,11/01/2017,,rejected,0,542985,12345 
