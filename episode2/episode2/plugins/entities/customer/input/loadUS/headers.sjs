@@ -9,11 +9,10 @@
  */
 function createHeaders(id, content, options) {
   return {
-  	"provenance": {
-     	"loadedBy": xdmp.getCurrentUser(),
-      "sourceSystem": "customer rdbms from acquired company XYZ",
-      "loadDate": fn.currentDate()
-    }
+  	"sourceSystem": "CSV file exported from RDBMS customer table. US customer data.",
+    "rawDataLoadDate": fn.currentDateTime(),
+    "rawDataLoadUser": xdmp.getCurrentUser(),
+    "countryOfOrigin": "US"
   };
 }
 

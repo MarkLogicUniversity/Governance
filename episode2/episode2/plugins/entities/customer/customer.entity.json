@@ -1,0 +1,15 @@
+{
+  "info" : {
+    "title" : "customer",
+    "version" : "0.0.1"
+  },
+  "definitions" : {
+    "customer" : {
+      "required" : [ ],
+      "elementRangeIndex" : [ ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : { }
+    }
+  }
+}
